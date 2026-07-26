@@ -1,64 +1,58 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+CV
 
-{% include base_path %}
+Download PDF
+
+--------------------------------
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+TU Dresden
+M.Sc. Computer Science
+2026–Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Amirkabir University of Technology
+B.Sc. Computer Engineering
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+--------------------------------
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Research Interests
+
+Machine Learning
+Data Science
+Graph Neural Networks
+Reinforcement Learning
+
+--------------------------------
+
+Technical Skills
+
+Python
+PyTorch
+TensorFlow
+NumPy
+Pandas
+Scikit-Learn
+Java
+Spring Boot
+Git
+Docker
+Linux
+
+--------------------------------
+
+Projects
+
+• Reinforcement Learning
+• PyTorch Fundamentals
+• D3.js Visualizations
+• Spring PetClinic
+• Kalman Filter
+• Model Predictive Control
+
+--------------------------------
+
+Languages
+
+English (TOEFL 104)
+German (A1, currently learning)
+Persian (Native)
