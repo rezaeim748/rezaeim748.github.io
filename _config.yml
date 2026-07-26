@@ -1,70 +1,37 @@
 # Basic Site Settings
 locale                  : "en-US"
-site_theme              : "default" # Options: "default", "air", "sunrise", "mint", "dirt", "contrast"
+site_theme              : "default"
 title                   : "Mohammadreza Rezaei"
 title_separator         : "-"
 name                    : &name "Mohammadreza Rezaei"
-description             : &description "Mohammadreza Rezaei's Academic & Technical Portfolio"
-url                     : https://rezaeim748.github.io
+description             : &description "Computer Science graduate student specializing in machine learning and data science"
+url                     : "https://rezaeim748.github.io"
 baseurl                 : ""
 repository              : "rezaeim748/rezaeim748.github.io"
 
-# Site Author - Controls the sidebar content
+# Site Author
 author:
-  avatar: "profile.png"
-  name: "Mohammadreza Rezaei"
-  pronouns: "he/him"
-  bio: "Graduate Student in CS | Machine Learning & Graph Neural Networks"
-  location: "Dresden, Germany"
-  employer: "TU Dresden"
-  email: "mohammadreza.rezaei@mailbox.tu-dresden.de"
-  github: "rezaeim748"
+  avatar                : "profile.png"
+  name                  : "Mohammadreza Rezaei"
+  pronouns              :
+  bio                   : "M.Sc. Computer Science Student | Machine Learning and Data Science"
+  location              : "Dresden, Germany"
+  employer              : "TU Dresden"
+  uri                   :
+  email                 : "mohammadreza.rezaei@mailbox.tu-dresden.de"
 
-  # Academic websites (leave blank or add your actual profile links)
-  academia              :
-  arxiv                 :
-  googlescholar         : # Add your Google Scholar URL if you have one
-  inspire-hep          :
-  impactstory           :
-  orcid                 : # Add your ORCID URL if applicable
-  semantic              :
-  ssrn                  :
-  pubmed                :
+  # Academic profiles
+  googlescholar         :
+  orcid                 :
   researchgate          :
-  scopus                :
-  zotero                :
 
-  # Repositories and software development
-  bitbucket             :
-  codepen               :
-  dribbble              :
+  # Professional profiles
   github                : "rezaeim748"
-  kaggle                :
+  linkedin              :
   stackoverflow         :
 
-  # Social media
-  artstation            :
-  bluesky               :
-  facebook              :
-  flickr                :
-  foursquare            :
-  goodreads             :
-  google_plus           :
-  keybase               :
-  instagram             :
-  lastfm                :
-  linkedin              : "" # Add your LinkedIn username here
-  mastodon              :
-  medium                :
-  pinterest             :
-  soundcloud            :
-  steam                 :
-  telegram              :
-  tumblr                :
+  # Other social profiles
   twitter               :
-  vine                  :
-  weibo                 :
-  wikipedia             :
-  xing                  :
+  bluesky               :
+  instagram             :
   youtube               :
-  zhihu                 :
