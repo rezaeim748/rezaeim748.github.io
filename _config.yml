@@ -11,15 +11,14 @@ repository              : "rezaeim748/rezaeim748.github.io"
 
 # Site Author - Controls the sidebar content
 author:
-  # Biographic information
-  avatar                : "profile.png"
-  name                  : "Mohammadreza Rezaei"
-  pronouns              : # example: "he/him"
-  bio                   : "Graduate Student in CS | Machine Learning & Graph Neural Networks"
-  location              : "Dresden, Germany"
-  employer              : "TU Dresden"
-  uri                   :
-  email                 : "mohammadreza.rezaei@mailbox.tu-dresden.de" # Replace with your email address
+  avatar: "profile.png"
+  name: "Mohammadreza Rezaei"
+  pronouns: "he/him"
+  bio: "Graduate Student in CS | Machine Learning & Graph Neural Networks"
+  location: "Dresden, Germany"
+  employer: "TU Dresden"
+  email: "mohammadreza.rezaei@mailbox.tu-dresden.de"
+  github: "rezaeim748"
 
   # Academic websites (leave blank or add your actual profile links)
   academia              :
