@@ -1,7 +1,6 @@
 CV
 
-Download PDF
-
+[📄 Download my CV](/files/CV_Mohammadreza_Rezaei.pdf){: .btn .btn--primary}
 --------------------------------
 
 Education
